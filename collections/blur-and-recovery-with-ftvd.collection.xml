@@ -1,0 +1,39 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11395</md:content-id>
+  <md:title>Blur and Recovery with FTVd</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:uuid>98273e2d-68b0-445d-b150-53f1b389912c</md:uuid>
+<md:slug>blur-and-recovery-with-ftvd</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m41974"/>
+        
+      
+    
+    
+      <col:module document="m41976"/>
+        
+      
+    
+    
+      <col:module document="m41980"/>
+        
+      
+    
+    
+      <col:module document="m41878"/>
+        
+      
+    
+  </col:content>
+</col:collection>
